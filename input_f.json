@@ -1,0 +1,5 @@
+{
+    "calls": ["addAtHead","addAtTail","addAtIndex","get","deleteAtIndex","get","get","deleteAtIndex","deleteAtIndex","get","deleteAtIndex","get"],
+    "expected": [null,null,null,2,null,3,-1,null,null,3,null,-1],
+    "args": [[1],[3],[1,2],[1],[1],[1],[3],[3],[0],[0],[0],[0]]
+}
